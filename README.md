@@ -5,7 +5,7 @@ Multi Desktop Full Screen for Chrome shows a web page extended across one or mor
 With this Chrome App we can use Windows 10 to extend the desktop (which is a standard way of doing things and does not require specific graphics cards) instead of using the graphics cards to make a combined desktop.
 
 ## Download ##
-[Click to download multi-desktop-full-screen-for-chrome.crx](https://github.com/SAP/digitalboardroom-multidesktop-fullscreen-chrome/blob/master/multi-desktop-full-screen-for-chrome.crx?raw=true)
+[Click to download multi-desktop-full-screen-for-chrome.crx](https://github.com/jackwarner/digitalboardroom-multidesktop-fullscreen-chrome/blob/master/multi-desktop-full-screen-for-chrome.crx?raw=true)
 
 ## Requirements ##
 * Windows 10
