@@ -470,6 +470,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Give focus to the URL input.
         urlInput.focus();
+        toggleFullScreen();
     };
 
     // Global keyboard handlers.
