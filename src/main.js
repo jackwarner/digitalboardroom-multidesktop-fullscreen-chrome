@@ -36,7 +36,7 @@ chrome.app.runtime.onLaunched.addListener(function () {
 
     // The app options amd default options.
     var defaultOptions = {
-        url: "http://www.sap.com"
+        url: "https://prod.digital-signage.intersect-nyc.com/#!/retail"
     };
     var options = {
         url:defaultOptions.url
